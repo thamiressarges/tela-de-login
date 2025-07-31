@@ -18,7 +18,6 @@ Este projeto consiste em uma tela de login moderna, responsiva e estilizada util
 ## 🎨 Preview
 
 ### 🖼️ Imagens
-| Tela Inicial |
 | ![tela1](images/tela_de_login_banner.png) |
 
 ---
