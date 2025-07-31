@@ -32,6 +32,10 @@ Este projeto consiste em uma tela de login moderna, responsiva e estilizada util
 
 ---
 
+> [![Assista no YouTube](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DO_VIDEO)
+
+---
+
 ## 🚀 Como executar
 
 1. Clone o repositório:
